@@ -1,5 +1,21 @@
 # Hangman Game in C++
-![Hangman Logo](hangman_logo.txt)
+```
+ _                                             
+| |                                            
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |                      
+                   |___/    
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+```
 This Hangman game is a simple console-based game implemented in C++. The goal of the game is to guess a secret word by suggesting letters.
 
 ## Features
